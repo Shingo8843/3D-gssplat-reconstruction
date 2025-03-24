@@ -1,0 +1,1 @@
+3D Gaussian Splatting for 3D Reconstruction of the ShapeNet dataset
