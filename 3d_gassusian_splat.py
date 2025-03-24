@@ -1,0 +1,1 @@
+# Retrieve gaussian splatting model or construct one

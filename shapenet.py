@@ -1,0 +1,1 @@
+# Retrieve shapenet dataloader from pytorch3d.datasets.shapenetcore
